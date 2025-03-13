@@ -61,4 +61,4 @@ El botón de reinicio te permite empezar de nuevo en cualquier momento.
 ![Juego reiniciado](imagenes/final_7.png)
 
 
-Proyecto realizado por Salvador Tlamatini Esparza Garcia para Alura, One
+Proyecto realizado por Salvador Tlamatini Esparza Garcia para Alura Latam
